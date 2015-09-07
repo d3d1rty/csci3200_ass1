@@ -1,0 +1,3487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Processed by Richard Davis’s converter -->
+<accounts>
+	<account>
+		<manager employeeId="80813">
+			<firstName>KOLTON</firstName>
+			<lastName>WALKER</lastName>
+		</manager>
+		<location>
+			<city>PORTLAND</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>HARMAN INTERNATIONAL INDUSTRIES INC</company>
+			<company>LUCENT TECHNOLOGIES INC</company>
+			<company>COMPUTER SCIENCES CORP</company>
+			<company>ECHOSTAR COMMUNICATIONS CORPORATION</company>
+			<company>PARKER HANNIFIN CORP</company>
+			<company>HIBERNIA CORP</company>
+			<company>BURLINGTON INDUSTRIES</company>
+			<company>WERNER ENTERPRISES INC</company>
+			<company>BORDERS GROUP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="33628">
+			<firstName>MARISSA</firstName>
+			<lastName>THOMPSON</lastName>
+		</manager>
+		<location>
+			<city>KINGSPORT</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>QUINTILES TRANSNATIONAL</company>
+			<company>BANTA CORPORATION</company>
+			<company>SEMPRA ENERGY</company>
+			<company>LEAR CORPORATION</company>
+			<company>DEVON ENERGY CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="66046">
+			<firstName>ROYCE</firstName>
+			<lastName>JOHNSON</lastName>
+		</manager>
+		<location>
+			<city>SAMBURG</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>ALLEGHENY ENERGY</company>
+			<company>FLEETBOSTON FINANCIAL CO</company>
+			<company>WESTERN GAS RESOURCES INC</company>
+			<company>TRINITY INDUSTRIES INC</company>
+			<company>RADIO SHACK CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="56744">
+			<firstName>SHANNA</firstName>
+			<lastName>HARRIS</lastName>
+		</manager>
+		<location>
+			<city>DAYTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>UNOVA INC</company>
+			<company>INTEGRATED ELECTRICAL SERVICES INC</company>
+			<company>DEAN FOODS COMPANY</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="73723">
+			<firstName>FRIEDRICH</firstName>
+			<lastName>CLARK</lastName>
+		</manager>
+		<location>
+			<city>JELLICO</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>HORMEL FOODS CORP</company>
+			<company>PANTRY INC</company>
+			<company>APPLE COMPUTER</company>
+			<company>HUGHES SUPPLY INC</company>
+			<company>EGL INC</company>
+			<company>OGE ENERGY CORP</company>
+			<company>WINN DIXIE STORES INC</company>
+			<company>TXU CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="92497">
+			<firstName>MERVIN</firstName>
+			<lastName>WILLIAMS</lastName>
+		</manager>
+		<location>
+			<city>MURFREESBORO</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>BLACK HILLS CORPORATION</company>
+			<company>CKE RESTAURANTS INC</company>
+			<company>EMCOR GROUP INC</company>
+			<company>NATIONAL SEMICONDUCTOR CORPORATION</company>
+			<company>CINERGY CORP</company>
+			<company>THE MONY GROUP INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="61932">
+			<firstName>BENITA</firstName>
+			<lastName>LEE</lastName>
+		</manager>
+		<location>
+			<city>HENNING</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>AQUILA</company>
+			<company>CONSTELLATION EMERGY GROUP INC</company>
+			<company>CMS ENERGY CORP</company>
+			<company>WALGREEN CO</company>
+			<company>BENCHMARK ELECTRONICS</company>
+			<company>BRIGHTPOINT</company>
+			<company>SABRE HOLDINGS CORP</company>
+			<company>DANAHER CORPORATION</company>
+			<company>HOUSEHOLD INTERNATIONAL CORP</company>
+			<company>DOLE FOOD COMPANY</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="79465">
+			<firstName>DANICA</firstName>
+			<lastName>ANDERSON</lastName>
+		</manager>
+		<location>
+			<city>TULLAHOMA</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>BANK ONE CORPORATION</company>
+			<company>AMERICA WEST HOLDINGS CORPORATION</company>
+			<company>TRW INC</company>
+			<company>MICHAELS STORES INC</company>
+			<company>OXFORD HEALTH PLANS INC</company>
+			<company>NVR INC</company>
+			<company>CH2M HILL COS LTD</company>
+			<company>DURA AUTOMOTIVE SYSTEMS INC</company>
+			<company>CHUBB CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="23183">
+			<firstName>AVIS</firstName>
+			<lastName>MARTINEZ</lastName>
+		</manager>
+		<location>
+			<city>COPPERHILL</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>XCEL ENERGY INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="49909">
+			<firstName>TAMARA</firstName>
+			<lastName>LEWIS</lastName>
+		</manager>
+		<location>
+			<city>DECATURVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>IMS HEALTH INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="18141">
+			<firstName>FELECIA</firstName>
+			<lastName>NICHOLSON</lastName>
+		</manager>
+		<location>
+			<city>TRIMBLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>SLM CORPORATION</company>
+			<company>JOHN HANCOCK FINANCIAL SERVICES INC</company>
+			<company>QUANTA SERVICES INC</company>
+			<company>EQUITY OFFICE PROPERTIES TRUST</company>
+			<company>ENTERGY CORPORATION</company>
+			<company>GENERAL MILLS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="93674">
+			<firstName>BRYNN</firstName>
+			<lastName>GONZALEZ</lastName>
+		</manager>
+		<location>
+			<city>MEMPHIS</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>GROUP 1 AUTOMOTIVE INC</company>
+			<company>OCEAN ENERGY INC</company>
+			<company>FLEMING COMPANIES INC</company>
+			<company>SERVICEMASTER CO</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="17605">
+			<firstName>VERGIL</firstName>
+			<lastName>RODRIGUEZ</lastName>
+		</manager>
+		<location>
+			<city>MCKENZIE</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>SCIENCE APPLICATIONS INTL INC</company>
+			<company>AFLAC INCORPORATED</company>
+			<company>ILLINOIS TOOL WORKS INC</company>
+			<company>QUESTAR CORP</company>
+			<company>COOPER CAMERON CORP</company>
+			<company>PETCO ANIMAL SUPPLIES INC</company>
+			<company>CSK AUTO CORP</company>
+			<company>QWEST COMMUNICATIONS INTL INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="49563">
+			<firstName>AMYA</firstName>
+			<lastName>TAYLOR</lastName>
+		</manager>
+		<location>
+			<city>EAGLEVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>SOUTHERN COMPANY</company>
+			<company>ARCH COAL</company>
+			<company>BOSTON SCIENTIFIC CORPORATION</company>
+			<company>DOVER CORPORATION</company>
+			<company>PRUDENTIAL FINANCIAL INC</company>
+			<company>WHOLE FOODS MARKET INC</company>
+			<company>CENDANT CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="14617">
+			<firstName>SHANON</firstName>
+			<lastName>THOMAS</lastName>
+		</manager>
+		<location>
+			<city>OAKLAND</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>COMFORT SYSTEMS USA INC</company>
+			<company>GENUITY INC</company>
+			<company>UGI CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="85215">
+			<firstName>LESIA</firstName>
+			<lastName>MILLER</lastName>
+		</manager>
+		<location>
+			<city>LAGRANGE</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>CINTAS CORP</company>
+			<company>CHARTER COMMUNICATIONS INC</company>
+			<company>PIER 1 IMPORTS INC</company>
+			<company>MPS GROUP INC</company>
+			<company>BURLINGTON COAT FACTORY WAREHOUSE CORPORATION</company>
+			<company>UNOCAL CORPORATION</company>
+			<company>VIASYSTEMS GROUP INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="82983">
+			<firstName>LOTTIE</firstName>
+			<lastName>SMITH</lastName>
+		</manager>
+		<location>
+			<city>MIDTOWN</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>BECKMAN COULTER</company>
+			<company>MARINER HEALTH CARE INC</company>
+			<company>SOLECTRON CORP</company>
+			<company>FELCOR LODGING TRUST INC</company>
+			<company>AMEREN CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="30213">
+			<firstName>ALEX</firstName>
+			<lastName>BROWN</lastName>
+		</manager>
+		<location>
+			<city>GATLINBURG</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>HASBRO INC</company>
+			<company>GREY GLOBAL GROUP INC</company>
+			<company>SOUTHERN UNION COMPANY</company>
+			<company>ADVANTICA RESTAURANT GROUP</company>
+			<company>BRUNSWICK CORPORATION</company>
+			<company>DOLLAR TREE STORES</company>
+			<company>STILWELL FINANCIAL INC</company>
+			<company>INGRAM MICRO INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="27141">
+			<firstName>SILVIA</firstName>
+			<lastName>LIN</lastName>
+		</manager>
+		<location>
+			<city>ORME</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>MERCURY GENERAL CORPORATION</company>
+			<company>EXELON CORPORATION</company>
+			<company>APPLIED MATERIALS</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="33578">
+			<firstName>PAM</firstName>
+			<lastName>DAVIS</lastName>
+		</manager>
+		<location>
+			<city>GLEASON</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>NATIONAL CITY CORP</company>
+			<company>PACIFICARE HEALTH SYSTEMS INC</company>
+			<company>CAMPBELL SOUP CO</company>
+			<company>AMERADA HESS CORPORATION</company>
+			<company>FISERV INC</company>
+			<company>AK STEEL HOLDING CORPORATION</company>
+			<company>VALERO ENERGY CORPORATION</company>
+			<company>MASSEY ENERGY COMPANY</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="70565">
+			<firstName>KRYSTLE</firstName>
+			<lastName>JACKSON</lastName>
+		</manager>
+		<location>
+			<city>MARTIN</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>DEL MONTE FOODS CO</company>
+			<company>UNIVERSAL CORPORATION</company>
+			<company>POLARIS INDUSTRIES INC</company>
+			<company>INTERNATIONAL PAPER CO</company>
+			<company>US AIRWAYS GROUP INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="99349">
+			<firstName>DARREL</firstName>
+			<lastName>JONES</lastName>
+		</manager>
+		<location>
+			<city>LYNNVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>INSIGHT ENTERPRISES INC</company>
+			<company>FARMLAND INDUSTRIES INC</company>
+			<company>LOCKHEED MARTIN CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="94529">
+			<firstName>SONNY</firstName>
+			<lastName>WHITE</lastName>
+		</manager>
+		<location>
+			<city>RIDGELY</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>BERKSHIRE HATHAWAY INC</company>
+			<company>FORTUNE BRANDS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="75391">
+			<firstName>JARROD</firstName>
+			<lastName>PEREZ</lastName>
+		</manager>
+		<location>
+			<city>ROGERSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>CONSTELLATION BRANDS INC</company>
+			<company>ON SEMICONDUCTOR CORP</company>
+			<company>THE LTV CORPORATION</company>
+			<company>PROGRESSIVE CORPORATION</company>
+			<company>WASTE MANAGEMENT INC</company>
+			<company>NATIONAL COMMERCE FINANCIAL CORPORATION</company>
+			<company>ALLETE</company>
+			<company>ALLIED WASTE INDUSTRIES</company>
+			<company>CONVERGYS CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="35936">
+			<firstName>ERNST</firstName>
+			<lastName>MOORE</lastName>
+		</manager>
+		<location>
+			<city>MANCHESTER</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>PETSMART INC</company>
+			<company>MARSH SUPERMARKETS INC</company>
+			<company>HALLIBURTON CO</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="57341">
+			<firstName>DONA</firstName>
+			<lastName>ROBINSON</lastName>
+		</manager>
+		<location>
+			<city>MITCHELLVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>WGL HOLDINGS INC</company>
+			<company>SERVICE CORP INTERNATIONAL</company>
+			<company>GOLDEN STATE BANCORP INC</company>
+			<company>EW SCRIPPS COMPANY</company>
+			<company>CONSOLIDATED FREIGHTWAYS CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="34158">
+			<firstName>DOROTHEA</firstName>
+			<lastName>HERNANDEZ</lastName>
+		</manager>
+		<location>
+			<city>LUTTRELL</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>TELEFLEX INCORPORATED</company>
+			<company>PROVIDIAN FINANCIAL CORP</company>
+			<company>CSX CORP</company>
+			<company>PALL CORP</company>
+			<company>OHIO CASUALTY CORP</company>
+			<company>COMERICA INC</company>
+			<company>REPUBLIC SERVICES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="43495">
+			<firstName>SIGMUND</firstName>
+			<lastName>GARCIA</lastName>
+		</manager>
+		<location>
+			<city>JACKSON</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>TRAVELCENTERS OF AMERICA INC</company>
+			<company>UNISYS CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="79882">
+			<firstName>JOVANI</firstName>
+			<lastName>BARNICLE</lastName>
+		</manager>
+		<location>
+			<city>WATERTOWN</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>AMERICAN GREETINGS CORPORATION</company>
+			<company>LEGG MASON INC</company>
+			<company>POLYONE CORP</company>
+			<company>MOLEX INCORPORATED</company>
+			<company>BELO CORP</company>
+			<company>METLIFE INC</company>
+			<company>PAYCHEX INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="47634">
+			<firstName>ELDRED</firstName>
+			<lastName>MARTIN</lastName>
+		</manager>
+		<location>
+			<city>MARYVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>FISHER SCIENTIFIC INTERNATIONAL INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="74382">
+			<firstName>EMMIT</firstName>
+			<lastName>WILSON</lastName>
+		</manager>
+		<location>
+			<city>LINDEN</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>STEWART INFORMATION SERVICES CORP</company>
+			<company>HOST MARRIOTT CORP</company>
+			<company>GREAT LAKES CHEMICAL CORPORATION</company>
+			<company>CINCINNATI FINANCIAL CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="65551">
+			<firstName>TANNER</firstName>
+			<lastName>MACHUCA</lastName>
+		</manager>
+		<location>
+			<city>HUNTINGDON</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>REGIS CORPORATION</company>
+			<company>SPX CORP</company>
+			<company>AVERY DENNISON CORPORATION</company>
+			<company>DR HORTON INC</company>
+			<company>RAYTHEON COMPANY</company>
+			<company>MDU RESOURCES GROUP INC</company>
+			<company>PHILLIPS VAN HEUSEN CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="41292">
+			<firstName>FRIDA</firstName>
+			<lastName>LOPEZ</lastName>
+		</manager>
+		<location>
+			<city>ALEXANDRIA</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>DOW CHEMICAL COMPANY</company>
+			<company>PERFORMANCE FOOD GROUP CO</company>
+			<company>LIZ CLAIBORNE INC</company>
+			<company>APPLIED INDUSTRIAL TECHNOLOGIES</company>
+			<company>GENUINE PARTS COMPANY</company>
+			<company>UNITED AUTO GROUP INC</company>
+			<company>CROMPTON CORP</company>
+			<company>UNISOURCE ENERGY CORP</company>
+			<company>PERKINELMER INC</company>
+			<company>COMVERSE TECHNOLOGY INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="41074">
+			<firstName>SHANTE</firstName>
+			<lastName>WALKER</lastName>
+		</manager>
+		<location>
+			<city>NEWPORT</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>ALLIANT ENERGY CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="90733">
+			<firstName>DARRIAN</firstName>
+			<lastName>THOMPSON</lastName>
+		</manager>
+		<location>
+			<city>SILERTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>E*TRADE GROUP</company>
+			<company>CABOT CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="61433">
+			<firstName>NICKLAUS</firstName>
+			<lastName>JOHNSON</lastName>
+		</manager>
+		<location>
+			<city>CENTERVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>VALSPAR CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="16193">
+			<firstName>HOLLIE</firstName>
+			<lastName>HARRIS</lastName>
+		</manager>
+		<location>
+			<city>LOUDON</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>KB HOME</company>
+			<company>UNITED PARCEL SERVICE INC</company>
+			<company>STEIN MART INC</company>
+			<company>SMITH INTERNATIONAL INC</company>
+			<company>CONECTIV</company>
+			<company>LINCOLN NATIONAL CORPORATION</company>
+			<company>SYMBOL TECHNOLOGIES INC</company>
+			<company>RYLAND GROUP INC</company>
+			<company>GOODRICH CORPORATION</company>
+			<company>ROSS STORES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="47308">
+			<firstName>DUSTY</firstName>
+			<lastName>CLARK</lastName>
+		</manager>
+		<location>
+			<city>BYRDSTOWN</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>NAVISTAR INTERNATIONAL CORPORATION</company>
+			<company>ARVINMERITOR</company>
+			<company>NATIONAL SERVICE INDUSTRIES INC</company>
+			<company>PEOPLES ENERGY CORP</company>
+			<company>WHIRLPOOL CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="20654">
+			<firstName>WINIFRED</firstName>
+			<lastName>WILLIAMS</lastName>
+		</manager>
+		<location>
+			<city>BENTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>MARRIOTT INTERNATIONAL INC</company>
+			<company>ASHLAND INC</company>
+			<company>BAXTER INTERNATIONAL INC</company>
+			<company>REGIONS FINANCIAL CORP</company>
+			<company>STORAGE TECHNOLOGY CORPORATION</company>
+			<company>ANADARKO PETROLEUM CORPORATION</company>
+			<company>SAKS INC</company>
+			<company>USG CORPORATION</company>
+			<company>AMR CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="28497">
+			<firstName>GIA</firstName>
+			<lastName>LEE</lastName>
+		</manager>
+		<location>
+			<city>LEWISBURG</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>ARCHER DANIELS MIDLAND COMPANY</company>
+			<company>SIERRA PACIFIC RESOURCES</company>
+			<company>GENESIS HEALTH VENTURES INC</company>
+			<company>DANA CORPORATION</company>
+			<company>ENGELHARD CORPORATION</company>
+			<company>HUB GROUP INC</company>
+			<company>NOVELLUS SYSTEMS INC</company>
+			<company>CBRL GROUP INC</company>
+			<company>GOLD KIST INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="91256">
+			<firstName>STEVE</firstName>
+			<lastName>ANDERSON</lastName>
+		</manager>
+		<location>
+			<city>MILLEDGEVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>FAMILY DOLLAR STORES INC</company>
+			<company>GREAT PLAINS ENERGY INC</company>
+			<company>TEXAS INSTRUMENTS INCORPORATED</company>
+			<company>SILGAN HOLDINGS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="46047">
+			<firstName>JASMYN</firstName>
+			<lastName>MARTINEZ</lastName>
+		</manager>
+		<location>
+			<city>SAVANNAH</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>AG EDWARDS INC</company>
+			<company>BECTON</company>
+			<company>MIRANT CORPORATION</company>
+			<company>EQUITABLE RESOURCES INC</company>
+			<company>MILACRON INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="86934">
+			<firstName>KATHI</firstName>
+			<lastName>LEWIS</lastName>
+		</manager>
+		<location>
+			<city>TRENTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>GOLDEN WEST FINANCIAL CORPORATION</company>
+			<company>VISTEON CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="33613">
+			<firstName>JERRIE</firstName>
+			<lastName>NICHOLSON</lastName>
+		</manager>
+		<location>
+			<city>HENRY</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>OM GROUP INC</company>
+			<company>FOOTSTAR INC</company>
+			<company>WALT DISNEY CO</company>
+			<company>DTE ENERGY CO</company>
+			<company>AUTOMATIC DATA PROCESSING</company>
+			<company>HARSCO CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="72500">
+			<firstName>LEOPOLD</firstName>
+			<lastName>GONZALEZ</lastName>
+		</manager>
+		<location>
+			<city>TIPTONVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>STANDARD PACIFIC CORP</company>
+			<company>US ONCOLOGY INC</company>
+			<company>EQUITY RESIDENTIAL PROPERTIES TRUST</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="11610">
+			<firstName>DERRICK</firstName>
+			<lastName>RODRIGUEZ</lastName>
+		</manager>
+		<location>
+			<city>RIVES</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>PHILIP MORRIS COMPANIES INC</company>
+			<company>SHAW GROUP INC</company>
+			<company>MANOR CARE INC</company>
+			<company>UNION PACIFIC CORPORATION</company>
+			<company>SPHERION CORP</company>
+			<company>SEALED AIR CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="76395">
+			<firstName>MUSTAFA</firstName>
+			<lastName>TAYLOR</lastName>
+		</manager>
+		<location>
+			<city>GREENEVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>TRIBUNE COMPANY</company>
+			<company>SCI SYSTEMS ONC</company>
+			<company>EDISON INTERNATIONAL</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="11262">
+			<firstName>JARRETT</firstName>
+			<lastName>THOMAS</lastName>
+		</manager>
+		<location>
+			<city>COWAN</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>GREIF BROS CORPORATION</company>
+			<company>3M COMPANY</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="87017">
+			<firstName>LESTER</firstName>
+			<lastName>MILLER</lastName>
+		</manager>
+		<location>
+			<city>TROY</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>RENT A CENTER INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="96059">
+			<firstName>PAMELA</firstName>
+			<lastName>SMITH</lastName>
+		</manager>
+		<location>
+			<city>BRIGHTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>ONEOK INC</company>
+			<company>ENTERPRISE PRODUCTS PARTNERS LP</company>
+			<company>WISCONSIN ENERGY CORPORATION</company>
+			<company>CERIDIAN CORP</company>
+			<company>EI DU PONT DE NEMOURS AND COMPANY</company>
+			<company>GENERAL DYNAMICS CORPORATION</company>
+			<company>OSHKOSH TRUCK CORP</company>
+			<company>TRIGON HEALTHCARE INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="86682">
+			<firstName>SUSIE</firstName>
+			<lastName>BROWN</lastName>
+		</manager>
+		<location>
+			<city>CLINTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>NORTH FORK BANCORPORATION INC</company>
+			<company>FLEETWOOD ENTERPRISES INC</company>
+			<company>JABIL CIRCUIT INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="20729">
+			<firstName>EARNEST</firstName>
+			<lastName>LIN</lastName>
+		</manager>
+		<location>
+			<city>LIBERTY</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>DUKE ENERGY CORP</company>
+			<company>NORTHWEST AIRLINES CORP</company>
+			<company>PEPSI BOTTLING GROUP INC</company>
+			<company>NACCO INDUSTRIES INC</company>
+			<company>WPS RESOURCES CORPORATION</company>
+			<company>CADENCE DESIGN SYSTEMS</company>
+			<company>CHARMING SHOPPES INC</company>
+			<company>FOOT LOCKER INC</company>
+			<company>AMSOUTH BANCORP</company>
+			<company>GEORGIA GULF CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="80452">
+			<firstName>LATRICIA</firstName>
+			<lastName>DAVIS</lastName>
+		</manager>
+		<location>
+			<city>GREENFIELD</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>AIR PRODUCTS AND CHEMICALS</company>
+			<company>VISHAY INTERTECHNOLOGY INC</company>
+			<company>SUNTRUST BANKS INC</company>
+			<company>OWENS CORNING</company>
+			<company>ZALE CORPORATION</company>
+			<company>NCR CORPORATION</company>
+			<company>MILLENNIUM CHEMICALS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="19248">
+			<firstName>ROBBIE</firstName>
+			<lastName>JACKSON</lastName>
+		</manager>
+		<location>
+			<city>DOWELLTOWN</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>MATTEL INC</company>
+			<company>TRIAD HOSPITALS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="84020">
+			<firstName>ITZEL</firstName>
+			<lastName>JONES</lastName>
+		</manager>
+		<location>
+			<city>HUNTLAND</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>CARPENTER TECHNOLOGY CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="48590">
+			<firstName>ALAYNA</firstName>
+			<lastName>WHITE</lastName>
+		</manager>
+		<location>
+			<city>MORRISTOWN</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>BANKNORTH GROUP</company>
+			<company>CORN PRODUCTS INTERNATIONAL INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="78680">
+			<firstName>DUKE</firstName>
+			<lastName>PEREZ</lastName>
+		</manager>
+		<location>
+			<city>FAYETTEVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>OUTBACK STEAKHOUSE INC</company>
+			<company>TRANSMONTAIGNE INC</company>
+			<company>TECO ENERGY INC</company>
+			<company>PPG INDUSTRIES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="60716">
+			<firstName>BONITA</firstName>
+			<lastName>MOORE</lastName>
+		</manager>
+		<location>
+			<city>RUTHERFORD</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>BJ SERVICES COMPANY</company>
+			<company>KENNAMETAL INC</company>
+			<company>ARAMARK CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="11037">
+			<firstName>TIFFANI</firstName>
+			<lastName>ROBINSON</lastName>
+		</manager>
+		<location>
+			<city>DANDRIDGE</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>THE LUBRIZOL CORPORATION</company>
+			<company>GENERAL CABLE CORPORATION</company>
+			<company>KINDRED HEALTHCARE INC</company>
+			<company>ELECTRONIC ARTS INC</company>
+			<company>IKON OFFICE SOLUTIONS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="42594">
+			<firstName>PETRA</firstName>
+			<lastName>HERNANDEZ</lastName>
+		</manager>
+		<location>
+			<city>GOODLETTSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>LEHMAN BROTHERS HOLDINGS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="91900">
+			<firstName>ATHENA</firstName>
+			<lastName>GARCIA</lastName>
+		</manager>
+		<location>
+			<city>MCEWEN</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>ADVANCED MICRO DEVICES</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="22547">
+			<firstName>LIDA</firstName>
+			<lastName>BARNICLE</lastName>
+		</manager>
+		<location>
+			<city>ADAMSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>MARTIN MARIETTA MATERIALS INC</company>
+			<company>BIG LOTS</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="24353">
+			<firstName>DARRIEN</firstName>
+			<lastName>MARTIN</lastName>
+		</manager>
+		<location>
+			<city>GARLAND</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>HERCULES INC</company>
+			<company>BURLINGTON NORTHERN SANTA FE CORPORATION</company>
+			<company>IT GROUP INC</company>
+			<company>AUDIOVOX CORPORATION</company>
+			<company>MBNA CORPORATION</company>
+			<company>MARATHON OIL CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="35704">
+			<firstName>TARA</firstName>
+			<lastName>WILSON</lastName>
+		</manager>
+		<location>
+			<city>ETOWAH</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>BELL MICROPRODUCTS INC</company>
+			<company>TRANS WORLD ENTERTAINMENT CORP</company>
+			<company>DST SYSTEMS</company>
+			<company>CONAGRA FOODS INC</company>
+			<company>YELLOW CORPORATION</company>
+			<company>OFFICEMAX INC</company>
+			<company>DQE INC</company>
+			<company>KELLY SERVICES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="35573">
+			<firstName>AUGUSTUS</firstName>
+			<lastName>MACHUCA</lastName>
+		</manager>
+		<location>
+			<city>ERIN</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>PUBLIX SUPER MARKETS INC</company>
+			<company>THE NEIMAN MARCUS GROUP INC</company>
+			<company>AMERICAN FINANCIAL GROUP</company>
+			<company>CONCORD EFS INC</company>
+			<company>AMC ENTERTAINMENT INC</company>
+			<company>PEROT SYSTEMS CORP</company>
+			<company>PRIMEDIA INC</company>
+			<company>EOG RESOURCES</company>
+			<company>KROGER CO</company>
+			<company>DOLLAR GENERAL CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="80934">
+			<firstName>NANCIE</firstName>
+			<lastName>LOPEZ</lastName>
+		</manager>
+		<location>
+			<city>GIBSON</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>HUNTINGTON BANCSHARES INC</company>
+			<company>SOVEREIGN BANCORP INC</company>
+			<company>BOISE CASCADE CORPORATION</company>
+			<company>WR BERKLEY CORPORATION</company>
+			<company>FERRO CORP</company>
+			<company>FURNITURE BRANDS INTERNATIONAL INC</company>
+			<company>ANTHEM</company>
+			<company>LONGS DRUG STORES CORPORATION</company>
+			<company>CONTINENTAL AIRLINES INC</company>
+			<company>PNM RESOURCES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="80479">
+			<firstName>MELINDA</firstName>
+			<lastName>WALKER</lastName>
+		</manager>
+		<location>
+			<city>HALLS</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>GENTEK INC</company>
+			<company>UNITED DEFENSE INDUSTRIES INC</company>
+			<company>ALLEGHANY CORPORATION</company>
+			<company>UNITED STATIONERS INC</company>
+			<company>ROCKWELL COLLINS INC</company>
+			<company>UST INC</company>
+			<company>DOMINION RESOURCES</company>
+			<company>OCCIDENTAL PETROLEUM CORP</company>
+			<company>SUNGARD DATA SYSTEMS INC</company>
+			<company>WEATHERFORD INTERNATIONAL INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="63181">
+			<firstName>PEARLINE</firstName>
+			<lastName>THOMPSON</lastName>
+		</manager>
+		<location>
+			<city>DUNLAP</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>SIERRA HEALTH SERVICES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="54434">
+			<firstName>NATHANIEL</firstName>
+			<lastName>JOHNSON</lastName>
+		</manager>
+		<location>
+			<city>GALLATIN</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>TELLABS INC</company>
+			<company>AVISTA CORPORATION</company>
+			<company>YORK INTERNATIONAL CORP</company>
+			<company>UNUMPROVIDENT CORPORATION</company>
+			<company>KIMBALL INTERNATIONAL INC</company>
+			<company>AMGEN INC</company>
+			<company>VARCO INTERNATIONAL INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="40238">
+			<firstName>OCTAVIA</firstName>
+			<lastName>HARRIS</lastName>
+		</manager>
+		<location>
+			<city>WAVERLY</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>WEYERHAUSER COMPANY</company>
+			<company>BEVERLY ENTERPRISES</company>
+			<company>CMGI INC</company>
+			<company>MEADWESTVACO CORPORATION</company>
+			<company>AMERCO</company>
+			<company>THE BANK OF NEW YORK COMPANY</company>
+			<company>STATE STREET CORP</company>
+			<company>USFREIGHWAYS CORPORATION</company>
+			<company>STANLEY WORKS</company>
+			<company>CDI CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="97397">
+			<firstName>KAELYN</firstName>
+			<lastName>CLARK</lastName>
+		</manager>
+		<location>
+			<city>HORNSBY</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>GENZYME CORPORATION</company>
+			<company>US INDUSTRIES INC</company>
+			<company>JOHNSON CONTROLS INC</company>
+			<company>AVON PRODUCTS</company>
+			<company>ELI LILLY AND COMPANY</company>
+			<company>PUGET ENERGY INC</company>
+			<company>KELLWOOD COMPANY</company>
+			<company>DELTA AIR LINES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="52149">
+			<firstName>BURNELL</firstName>
+			<lastName>WILLIAMS</lastName>
+		</manager>
+		<location>
+			<city>MONTEAGLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>LIMITED INC</company>
+			<company>FIRST NATIONAL OF NEBRASKA INC</company>
+			<company>MICROSOFT CORPORATION</company>
+			<company>FORD MOTOR CO</company>
+			<company>ROADWAYCORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="21182">
+			<firstName>KELTON</firstName>
+			<lastName>LEE</lastName>
+		</manager>
+		<location>
+			<city>SAULSBURY</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>PFIZER INC</company>
+			<company>VALUE CITY DEPARTMENT STORES INC</company>
+			<company>AMTRAN</company>
+			<company>FIDELITY NATIONAL FINANCIAL INC</company>
+			<company>HEALTH MANAGEMENT ASSOCIATES INC</company>
+			<company>MANPOWER INC</company>
+			<company>VERITAS SOFTWARE CORPORATION</company>
+			<company>MEDTRONIC INC</company>
+			<company>PLAINS ALL AMERICAN PIPELINE LP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="59577">
+			<firstName>HERB</firstName>
+			<lastName>ANDERSON</lastName>
+		</manager>
+		<location>
+			<city>MASON</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>AON CORPORATION</company>
+			<company>LSI LOGIC CORPORATION</company>
+			<company>PHOENIX COMPANIES INC</company>
+			<company>HCA INC</company>
+			<company>NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION</company>
+			<company>STANCORP FINANCIAL GROUP INC</company>
+			<company>TECH DATA CORPORATION</company>
+			<company>ALCOA INC</company>
+			<company>CONSECO INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="66400">
+			<firstName>LIZETH</firstName>
+			<lastName>MARTINEZ</lastName>
+		</manager>
+		<location>
+			<city>SWEETWATER</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>HOVNANIAN ENTERPRISES INC</company>
+			<company>ATMEL CORPORATION</company>
+			<company>POPULAR INC</company>
+			<company>BELLSOUTH CORPORATION</company>
+			<company>ARMSTRONG HOLDINGS</company>
+			<company>VECTREN CORPORATION</company>
+			<company>ADC TELECOMMUNICATIONS</company>
+			<company>SILICON GRAPHICS INC</company>
+			<company>COX COMMUNICATIONS INC</company>
+			<company>SPORTS AUTHORITY INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="71423">
+			<firstName>CHRISTEL</firstName>
+			<lastName>LEWIS</lastName>
+		</manager>
+		<location>
+			<city>HUMBOLDT</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>FRANKLIN RESOURCES INC</company>
+			<company>WILLIAMS COMPANIES INC</company>
+			<company>ALLERGAN</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="52727">
+			<firstName>ADA</firstName>
+			<lastName>NICHOLSON</lastName>
+		</manager>
+		<location>
+			<city>CHATTANOOGA</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>VIAD CORP</company>
+			<company>LANDSTAR SYSTEM INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="25458">
+			<firstName>TATUM</firstName>
+			<lastName>GONZALEZ</lastName>
+		</manager>
+		<location>
+			<city>ALTAMONT</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>RIVERWOOD HOLDING INC</company>
+			<company>COMCAST CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="54459">
+			<firstName>KAYLEY</firstName>
+			<lastName>RODRIGUEZ</lastName>
+		</manager>
+		<location>
+			<city>BOLIVAR</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>FPL GROUP INC</company>
+			<company>HAWAIIAN ELECTRIC INDUSTRIES INC</company>
+			<company>COMDISCO INC</company>
+			<company>WALTER INDUSTRIES INC</company>
+			<company>FAIRCHILD SEMICONDUCTOR INTERNATIONAL INC</company>
+			<company>WESTERN DIGITAL INC</company>
+			<company>HERMAN MILLER INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="10861">
+			<firstName>SIBYL</firstName>
+			<lastName>TAYLOR</lastName>
+		</manager>
+		<location>
+			<city>SPENCER</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>MAGELLAN HEALTH SERVICES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="21829">
+			<firstName>KAELA</firstName>
+			<lastName>THOMAS</lastName>
+		</manager>
+		<location>
+			<city>PULASKI</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>WASHINGTON MUTUAL INC</company>
+			<company>PRAXAIR INC</company>
+			<company>HEALTH NET INC</company>
+			<company>SARA LEE CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="88791">
+			<firstName>SANTANA</firstName>
+			<lastName>MILLER</lastName>
+		</manager>
+		<location>
+			<city>HOHENWALD</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>AOL TIME WARNER INC</company>
+			<company>TARGET CORP</company>
+			<company>GENTIVA HEALTH SERVICES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="37560">
+			<firstName>RAFAELA</firstName>
+			<lastName>SMITH</lastName>
+		</manager>
+		<location>
+			<city>MOSCOW</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>PUBLIC SERVICE ENTERPRISE GROUP INC</company>
+			<company>REVLON INC</company>
+			<company>ENERGIZER HOLDINGS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="95862">
+			<firstName>ONA</firstName>
+			<lastName>BROWN</lastName>
+		</manager>
+		<location>
+			<city>ENGLEWOOD</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>THERMO ELECTRON CORPORATION</company>
+			<company>BROWN SHOE COMPANY</company>
+			<company>CONOCO INC</company>
+			<company>PHELPS DODGE CORP</company>
+			<company>TOLL BROTHERS INC</company>
+			<company>HON INDUSTRIES INC</company>
+			<company>RELIANT ENERGY INC</company>
+			<company>UNIFIED WESTERN GROCERS INC</company>
+			<company>ECOLAB INC</company>
+			<company>HERSHEY FOODS CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="37504">
+			<firstName>ABDIEL</firstName>
+			<lastName>LIN</lastName>
+		</manager>
+		<location>
+			<city>KNOXVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>PENTAIR INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="34619">
+			<firstName>REYNALDO</firstName>
+			<lastName>DAVIS</lastName>
+		</manager>
+		<location>
+			<city>ELKTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>ECHOSTAR COMMUNICATIONS CORPORATION</company>
+			<company>PARKER HANNIFIN CORP</company>
+			<company>HIBERNIA CORP</company>
+			<company>BURLINGTON INDUSTRIES</company>
+			<company>WERNER ENTERPRISES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="75488">
+			<firstName>TOD</firstName>
+			<lastName>JACKSON</lastName>
+		</manager>
+		<location>
+			<city>MIDDLETON</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>LEAR CORPORATION</company>
+			<company>DEVON ENERGY CORPORATION</company>
+			<company>HUBBELL INC</company>
+			<company>TEXTRON INC</company>
+			<company>ABBOTT LABORATORIES</company>
+			<company>SUN HEALTHCARE GROUP INC</company>
+			<company>ENERGY EAST CORPORATION</company>
+			<company>ALLEGHENY ENERGY</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="17805">
+			<firstName>LAQUITA</firstName>
+			<lastName>JONES</lastName>
+		</manager>
+		<location>
+			<city>BRISTOL</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>TRINITY INDUSTRIES INC</company>
+			<company>RADIO SHACK CORPORATION</company>
+			<company>ALLTEL CORPORATION</company>
+			<company>PPL CORP</company>
+			<company>SHOPKO STORES INC</company>
+			<company>ALLMERICA FINANCIAL CORPORATION</company>
+			<company>AMERICAN POWER CONVERSION CORPORATION</company>
+			<company>UNOVA INC</company>
+			<company>INTEGRATED ELECTRICAL SERVICES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="14717">
+			<firstName>KATERINA</firstName>
+			<lastName>WHITE</lastName>
+		</manager>
+		<location>
+			<city>ROSSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>THE AES CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="96021">
+			<firstName>PIETRO</firstName>
+			<lastName>PEREZ</lastName>
+		</manager>
+		<location>
+			<city>SMYRNA</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>HUGHES SUPPLY INC</company>
+			<company>EGL INC</company>
+			<company>OGE ENERGY CORP</company>
+			<company>WINN DIXIE STORES INC</company>
+			<company>TXU CORP</company>
+			<company>EQUIFAX INC</company>
+			<company>DARDEN RESTAURANTS INC</company>
+			<company>BLACK HILLS CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="20736">
+			<firstName>THEODORA</firstName>
+			<lastName>MOORE</lastName>
+		</manager>
+		<location>
+			<city>DECHERD</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>NATIONAL SEMICONDUCTOR CORPORATION</company>
+			<company>CINERGY CORP</company>
+			<company>THE MONY GROUP INC</company>
+			<company>CATERPILLAR INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="80456">
+			<firstName>JEREMIAH</firstName>
+			<lastName>ROBINSON</lastName>
+		</manager>
+		<location>
+			<city>GADSDEN</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>WALGREEN CO</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="26455">
+			<firstName>KENDALL</firstName>
+			<lastName>HERNANDEZ</lastName>
+		</manager>
+		<location>
+			<city>WESTMORELAND</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>MICHAELS STORES INC</company>
+			<company>OXFORD HEALTH PLANS INC</company>
+			<company>NVR INC</company>
+			<company>CH2M HILL COS LTD</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="91441">
+			<firstName>WILBERT</firstName>
+			<lastName>GARCIA</lastName>
+		</manager>
+		<location>
+			<city>PETERSBURG</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>OMNICARE INC</company>
+			<company>BAKER HUGHES INCORPORATED</company>
+			<company>LEXMARK INTERNATIONAL INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="18101">
+			<firstName>CODY</firstName>
+			<lastName>BARNICLE</lastName>
+		</manager>
+		<location>
+			<city>NORMANDY</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>INTEL CORPORATION</company>
+			<company>THE ALPINE GROUP</company>
+			<company>CONSOLIDATED EDISON INC</company>
+			<company>COMMERCIAL METALS CO</company>
+			<company>FLOWERS FOODS INC</company>
+			<company>CISCO SYSTEMS INC</company>
+			<company>WM WRIGLEY JR COMPANY</company>
+			<company>SLM CORPORATION</company>
+			<company>JOHN HANCOCK FINANCIAL SERVICES INC</company>
+			<company>QUANTA SERVICES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="35875">
+			<firstName>RUTHIE</firstName>
+			<lastName>MARTIN</lastName>
+		</manager>
+		<location>
+			<city>NORRIS</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>EQUITY OFFICE PROPERTIES TRUST</company>
+			<company>ENTERGY CORPORATION</company>
+			<company>GENERAL MILLS INC</company>
+			<company>PAYLESS SHOESOURCE INC</company>
+			<company>MAXXAM INC</company>
+			<company>MARKEL CORPORATION</company>
+			<company>PHARMACIA CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="50684">
+			<firstName>LINNIE</firstName>
+			<lastName>WILSON</lastName>
+		</manager>
+		<location>
+			<city>ALCOA</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>SERVICEMASTER CO</company>
+			<company>IVAX CORP</company>
+			<company>JACK IN THE BOX INC</company>
+			<company>MOTOROLA INC</company>
+			<company>NUCOR CORP</company>
+			<company>NORFOLK SOUTHERN CORPORATION</company>
+			<company>AMERICAN STANDARD COMPANIES INC</company>
+			<company>SCIENCE APPLICATIONS INTL INC</company>
+			<company>AFLAC INCORPORATED</company>
+			<company>ILLINOIS TOOL WORKS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="66781">
+			<firstName>TUCKER</firstName>
+			<lastName>MACHUCA</lastName>
+		</manager>
+		<location>
+			<city>HENDERSON</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>QUESTAR CORP</company>
+			<company>COOPER CAMERON CORP</company>
+			<company>PETCO ANIMAL SUPPLIES INC</company>
+			<company>CSK AUTO CORP</company>
+			<company>QWEST COMMUNICATIONS INTL INC</company>
+			<company>BROADWING</company>
+			<company>ADVANCEPCS</company>
+			<company>SOUTHERN COMPANY</company>
+			<company>ARCH COAL</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="72532">
+			<firstName>SALMA</firstName>
+			<lastName>LOPEZ</lastName>
+		</manager>
+		<location>
+			<city>DICKSON</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>DOVER CORPORATION</company>
+			<company>PRUDENTIAL FINANCIAL INC</company>
+			<company>WHOLE FOODS MARKET INC</company>
+			<company>CENDANT CORP</company>
+			<company>WORLDCOM INC</company>
+			<company>NATIONAL OILWELL INC</company>
+			<company>WALLACE COMPUTER SERVICES INC</company>
+			<company>COMFORT SYSTEMS USA INC</company>
+			<company>GENUITY INC</company>
+			<company>UGI CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="15008">
+			<firstName>TOBIN</firstName>
+			<lastName>WALKER</lastName>
+		</manager>
+		<location>
+			<city>SALTILLO</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>SCHOLASTIC CORP</company>
+			<company>CDW COMPUTER CENTERS INC</company>
+			<company>WESTPOINT STEVENS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="88103">
+			<firstName>JOSIAH</firstName>
+			<lastName>THOMPSON</lastName>
+		</manager>
+		<location>
+			<city>HORNBEAK</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>MPS GROUP INC</company>
+			<company>BURLINGTON COAT FACTORY WAREHOUSE CORPORATION</company>
+			<company>UNOCAL CORPORATION</company>
+			<company>VIASYSTEMS GROUP INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="82360">
+			<firstName>ALANA</firstName>
+			<lastName>JOHNSON</lastName>
+		</manager>
+		<location>
+			<city>GATES</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>FELCOR LODGING TRUST INC</company>
+			<company>AMEREN CORPORATION</company>
+			<company>BETHLEHEM STEEL CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="40606">
+			<firstName>GUNNAR</firstName>
+			<lastName>HARRIS</lastName>
+		</manager>
+		<location>
+			<city>JONESBOROUGH</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>ADVANTICA RESTAURANT GROUP</company>
+			<company>BRUNSWICK CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="65197">
+			<firstName>KENIA</firstName>
+			<lastName>CLARK</lastName>
+		</manager>
+		<location>
+			<city>BRUCETON</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>AMAZONCOM</company>
+			<company>UNITEDHEALTH GROUP INCORPORATED</company>
+			<company>NEW JERSEY RESOURCES CORPORATION</company>
+			<company>HOLLYWOOD ENTERTAINMENT CORP</company>
+			<company>ADOLPH COORS COMPANY</company>
+			<company>PENN TRAFFIC CO</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="28270">
+			<firstName>KARLENE</firstName>
+			<lastName>WILLIAMS</lastName>
+		</manager>
+		<location>
+			<city>VANLEER</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>AMERADA HESS CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="67548">
+			<firstName>ROSAMOND</firstName>
+			<lastName>LEE</lastName>
+		</manager>
+		<location>
+			<city>WARTRACE</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>INTERNATIONAL PAPER CO</company>
+			<company>US AIRWAYS GROUP INC</company>
+			<company>DAVITA INC</company>
+			<company>CLEAR CHANNEL COMMUNICATIONS INC</company>
+			<company>AGILENT TECHNOLOGIES</company>
+			<company>WAKENHUT CORPORATION</company>
+			<company>JC PENNY CO</company>
+			<company>INSIGHT ENTERPRISES INC</company>
+			<company>FARMLAND INDUSTRIES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="81127">
+			<firstName>DIONTE</firstName>
+			<lastName>ANDERSON</lastName>
+		</manager>
+		<location>
+			<city>GRAYSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>ALASKA AIR GROUP</company>
+			<company>FOREST LABORATORIES INC</company>
+			<company>SCANA CORP</company>
+			<company>CNF INC</company>
+			<company>TRUSERV CORPORATION</company>
+			<company>FLOWSERV CORP</company>
+			<company>STATER BROS HOLDINGS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="74635">
+			<firstName>E</firstName>
+			<lastName>MARTINEZ</lastName>
+		</manager>
+		<location>
+			<city>MEDON</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>GENCORP INC</company>
+			<company>GAP INC</company>
+			<company>AMES DEPARTMENT STORES</company>
+			<company>CIENA CORP</company>
+			<company>XEROX CORP</company>
+			<company>CELLSTAR CORP</company>
+			<company>OLD REPUBLIC INTERNATIONAL CORP</company>
+			<company>CONSTELLATION BRANDS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="62120">
+			<firstName>BERENICE</firstName>
+			<lastName>LEWIS</lastName>
+		</manager>
+		<location>
+			<city>BELLS</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>PROGRESSIVE CORPORATION</company>
+			<company>WASTE MANAGEMENT INC</company>
+			<company>NATIONAL COMMERCE FINANCIAL CORPORATION</company>
+			<company>ALLETE</company>
+			<company>ALLIED WASTE INDUSTRIES</company>
+			<company>CONVERGYS CORP</company>
+			<company>AVAYA INC</company>
+			<company>PETSMART INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="40738">
+			<firstName>DARRELL</firstName>
+			<lastName>NICHOLSON</lastName>
+		</manager>
+		<location>
+			<city>ENVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>EXPRESS SCRIPTS INC</company>
+			<company>BORGWARNER INC</company>
+			<company>SIMON PROPERTY GROUP INC</company>
+			<company>NIKE INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="47586">
+			<firstName>LAURETTA</firstName>
+			<lastName>GONZALEZ</lastName>
+		</manager>
+		<location>
+			<city>RIDGETOP</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>EW SCRIPPS COMPANY</company>
+			<company>CONSOLIDATED FREIGHTWAYS CORP</company>
+			<company>PATHMARK STORES INC</company>
+			<company>AMERICAN EXPRESS COMPANY</company>
+			<company>AIRBORNE</company>
+			<company>COMPUTER ASSOCIATES INTERNATIONAL INC</company>
+			<company>ARKANSAS BEST CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="85425">
+			<firstName>NILSA</firstName>
+			<lastName>RODRIGUEZ</lastName>
+		</manager>
+		<location>
+			<city>PALMER</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>PALL CORP</company>
+			<company>OHIO CASUALTY CORP</company>
+			<company>COMERICA INC</company>
+			<company>REPUBLIC SERVICES INC</company>
+			<company>BUDGET GROUP</company>
+			<company>MGM MIRAGE</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="45734">
+			<firstName>MISTY</firstName>
+			<lastName>TAYLOR</lastName>
+		</manager>
+		<location>
+			<city>CENTERTOWN</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>NTL INCORPORATED</company>
+			<company>TRANSOCEAN INC</company>
+			<company>EATON CORPORATION</company>
+			<company>NISOURCE INC</company>
+			<company>HONEYWELL INTERNATIONAL INC</company>
+			<company>ORACLE CORP</company>
+			<company>GATX CORPORATION</company>
+			<company>AMERICAN GREETINGS CORPORATION</company>
+			<company>LEGG MASON INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="69022">
+			<firstName>GAYE</firstName>
+			<lastName>THOMAS</lastName>
+		</manager>
+		<location>
+			<city>SHELBYVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>MOLEX INCORPORATED</company>
+			<company>BELO CORP</company>
+			<company>METLIFE INC</company>
+			<company>PAYCHEX INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="75027">
+			<firstName>MOZELL</firstName>
+			<lastName>MILLER</lastName>
+		</manager>
+		<location>
+			<city>GORDONSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>WAL MART STORES INC</company>
+			<company>NEXTEL COMMUNICATIONS INC</company>
+			<company>AUTONATION</company>
+			<company>WASHINGTON POST CO</company>
+			<company>XO COMMUNICATIONS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="78820">
+			<firstName>JERALDINE</firstName>
+			<lastName>SMITH</lastName>
+		</manager>
+		<location>
+			<city>RIPLEY</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>CINCINNATI FINANCIAL CORP</company>
+			<company>ENCOMPASS SERVICES CORPORATION</company>
+			<company>DELL COMPUTER CORPORATION</company>
+			<company>FRONTIER OIL CORP</company>
+			<company>DELUXE CORPORATION</company>
+			<company>INTERPUBLIC GROUP OF COMPANIES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="21648">
+			<firstName>EMMALEE</firstName>
+			<lastName>BROWN</lastName>
+		</manager>
+		<location>
+			<city>WINCHESTER</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>DR HORTON INC</company>
+			<company>RAYTHEON COMPANY</company>
+			<company>MDU RESOURCES GROUP INC</company>
+			<company>PHILLIPS VAN HEUSEN CORP</company>
+			<company>VERIZON COMMUNICATIONS INC</company>
+			<company>US BANCORP</company>
+			<company>ENRON CORP</company>
+			<company>DOW CHEMICAL COMPANY</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="77420">
+			<firstName>JEWELL</firstName>
+			<lastName>LIN</lastName>
+		</manager>
+		<location>
+			<city>BURNS</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>APPLIED INDUSTRIAL TECHNOLOGIES</company>
+			<company>GENUINE PARTS COMPANY</company>
+			<company>UNITED AUTO GROUP INC</company>
+			<company>CROMPTON CORP</company>
+			<company>UNISOURCE ENERGY CORP</company>
+			<company>PERKINELMER INC</company>
+			<company>COMVERSE TECHNOLOGY INC</company>
+			<company>ALLIANT ENERGY CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="15513">
+			<firstName>RAOUL</firstName>
+			<lastName>DAVIS</lastName>
+		</manager>
+		<location>
+			<city>PARSONS</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>WATSCO INC</company>
+			<company>TMP WORLDWIDE INC</company>
+			<company>BALL CORPORATION</company>
+			<company>TIMKEN COMPANY</company>
+			<company>OGLETHORPE POWER CORP</company>
+			<company>AGCO CORPORATION</company>
+			<company>AMKOR TECHNOLOGY</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="82914">
+			<firstName>MAYA</firstName>
+			<lastName>JACKSON</lastName>
+		</manager>
+		<location>
+			<city>CELINA</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>METALDYNE CORPORATION</company>
+			<company>PROTECTIVE LIFE CORP</company>
+			<company>FMC CORP</company>
+			<company>RITE AID CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="30209">
+			<firstName>ELIZA</firstName>
+			<lastName>JONES</lastName>
+		</manager>
+		<location>
+			<city>AUBURNTOWN</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>SIEBEL SYSTEMS INC</company>
+			<company>ADELPHIA COMMUNICATIONS CORPORATION</company>
+			<company>CVS CORP</company>
+			<company>AVNET</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="83614">
+			<firstName>JERMAIN</firstName>
+			<lastName>WHITE</lastName>
+		</manager>
+		<location>
+			<city>SHARON</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>SMITH INTERNATIONAL INC</company>
+			<company>CONECTIV</company>
+			<company>LINCOLN NATIONAL CORPORATION</company>
+			<company>SYMBOL TECHNOLOGIES INC</company>
+			<company>RYLAND GROUP INC</company>
+			<company>GOODRICH CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="89432">
+			<firstName>DOMENICK</firstName>
+			<lastName>PEREZ</lastName>
+		</manager>
+		<location>
+			<city>SARDIS</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>PEOPLES ENERGY CORP</company>
+			<company>WHIRLPOOL CORPORATION</company>
+			<company>GANNETT CO</company>
+			<company>ZIONS BANCORPORATION</company>
+			<company>GRAYBAR ELECTRIC COMPANY INC</company>
+			<company>AMERICAN ELECTRIC POWER COMPANY</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="78791">
+			<firstName>ED</firstName>
+			<lastName>MOORE</lastName>
+		</manager>
+		<location>
+			<city>OBION</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>REGIONS FINANCIAL CORP</company>
+			<company>STORAGE TECHNOLOGY CORPORATION</company>
+			<company>ANADARKO PETROLEUM CORPORATION</company>
+			<company>SAKS INC</company>
+			<company>USG CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="19731">
+			<firstName>DOMINIQUE</firstName>
+			<lastName>ROBINSON</lastName>
+		</manager>
+		<location>
+			<city>MILLERSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>DANA CORPORATION</company>
+			<company>ENGELHARD CORPORATION</company>
+			<company>HUB GROUP INC</company>
+			<company>NOVELLUS SYSTEMS INC</company>
+			<company>CBRL GROUP INC</company>
+			<company>GOLD KIST INC</company>
+			<company>GILLETTE COMPANY</company>
+			<company>FAMILY DOLLAR STORES INC</company>
+			<company>GREAT PLAINS ENERGY INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="95078">
+			<firstName>ANTONIA</firstName>
+			<lastName>HERNANDEZ</lastName>
+		</manager>
+		<location>
+			<city>PARROTTSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>SILGAN HOLDINGS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="13790">
+			<firstName>KENNY</firstName>
+			<lastName>GARCIA</lastName>
+		</manager>
+		<location>
+			<city>CHARLOTTE</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>EQUITABLE RESOURCES INC</company>
+			<company>MILACRON INC</company>
+			<company>IMC GLOBAL INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="60146">
+			<firstName>WALLY</firstName>
+			<lastName>BARNICLE</lastName>
+		</manager>
+		<location>
+			<city>ERWIN</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>AMERISOURCEBERGEN CORPORATION</company>
+			<company>GENERAL ELECTRIC COMPANY</company>
+			<company>WYNDHAM INTERNATIONAL INC</company>
+			<company>UNIVERSAL FOREST PRODUCTS INC</company>
+			<company>CENTURYTEL INC</company>
+			<company>SEQUA CORP</company>
+			<company>COVENTRY HEALTH CARE INC</company>
+			<company>OM GROUP INC</company>
+			<company>FOOTSTAR INC</company>
+			<company>WALT DISNEY CO</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="18505">
+			<firstName>KRISTEN</firstName>
+			<lastName>MARTIN</lastName>
+		</manager>
+		<location>
+			<city>CROSSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>DTE ENERGY CO</company>
+			<company>AUTOMATIC DATA PROCESSING</company>
+			<company>HARSCO CORP</company>
+			<company>SUN MICROSYSTEMS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="30805">
+			<firstName>ADALINE</firstName>
+			<lastName>WILSON</lastName>
+		</manager>
+		<location>
+			<city>KINGSTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>MURPHY OIL CORPORATION</company>
+			<company>QUANTUM CORP</company>
+			<company>FIRST DATA CORP</company>
+			<company>DYNCORP</company>
+			<company>MAXTOR CORPORATION</company>
+			<company>VIACOM INC</company>
+			<company>PACKAGING CORP OF AMERICA</company>
+			<company>PHILIP MORRIS COMPANIES INC</company>
+			<company>SHAW GROUP INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="35498">
+			<firstName>ISABELL</firstName>
+			<lastName>MACHUCA</lastName>
+		</manager>
+		<location>
+			<city>MCLEMORESVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>UNION PACIFIC CORPORATION</company>
+			<company>SPHERION CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="22660">
+			<firstName>EMILIANO</firstName>
+			<lastName>LOPEZ</lastName>
+		</manager>
+		<location>
+			<city>ROCKWOOD</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>METALS USA INC</company>
+			<company>PITNEY BOWES INC</company>
+			<company>SONIC AUTOMOTIVE INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="84323">
+			<firstName>ELNORA</firstName>
+			<lastName>WALKER</lastName>
+		</manager>
+		<location>
+			<city>DYERSBURG</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>AMERICAN EAGLE OUTFITTERS</company>
+			<company>QUALCOMM INC</company>
+			<company>TERADYNE INC</company>
+			<company>CIRCUIT CITY STORES INC</company>
+			<company>LITHIA MOTORS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="73149">
+			<firstName>EVE</firstName>
+			<lastName>THOMPSON</lastName>
+		</manager>
+		<location>
+			<city>CARTHAGE</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>POTLATCH CORP</company>
+			<company>COOPER INDUSTRIES LTD</company>
+			<company>PREMCOR INC</company>
+			<company>DIAL CORPORATION</company>
+			<company>BELK</company>
+			<company>UNIVERSAL HEALTH SERVICES INC</company>
+			<company>TORCHMARK CORPORATION</company>
+			<company>ONEOK INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="76662">
+			<firstName>MARCIA</firstName>
+			<lastName>JOHNSON</lastName>
+		</manager>
+		<location>
+			<city>MONTEREY</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>CERIDIAN CORP</company>
+			<company>EI DU PONT DE NEMOURS AND COMPANY</company>
+			<company>GENERAL DYNAMICS CORPORATION</company>
+			<company>OSHKOSH TRUCK CORP</company>
+			<company>TRIGON HEALTHCARE INC</company>
+			<company>HILLENBRAND INDUSTRIES INC</company>
+			<company>TEREX CORP</company>
+			<company>NORTH FORK BANCORPORATION INC</company>
+			<company>FLEETWOOD ENTERPRISES INC</company>
+			<company>JABIL CIRCUIT INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="57358">
+			<firstName>ROSANNE</firstName>
+			<lastName>HARRIS</lastName>
+		</manager>
+		<location>
+			<city>CLARKSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>ADVANCE AUTO PARTS</company>
+			<company>PITTSTON BRINKS GROUP</company>
+			<company>SCOTTS COMPANY</company>
+			<company>KELLOGG COMPANY</company>
+			<company>PULTE HOMES INC</company>
+			<company>WELLPOINT HEALTH NETWORKS INC</company>
+			<company>AMERICAN INTERNATIONAL GROUP</company>
+			<company>DUKE ENERGY CORP</company>
+			<company>NORTHWEST AIRLINES CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="89366">
+			<firstName>DEIRDRE</firstName>
+			<lastName>CLARK</lastName>
+		</manager>
+		<location>
+			<city>JAMESTOWN</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>NACCO INDUSTRIES INC</company>
+			<company>WPS RESOURCES CORPORATION</company>
+			<company>CADENCE DESIGN SYSTEMS</company>
+			<company>CHARMING SHOPPES INC</company>
+			<company>FOOT LOCKER INC</company>
+			<company>AMSOUTH BANCORP</company>
+			<company>GEORGIA GULF CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="86068">
+			<firstName>MARGARET</firstName>
+			<lastName>WILLIAMS</lastName>
+		</manager>
+		<location>
+			<city>FRIENDSHIP</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>OWENS CORNING</company>
+			<company>ZALE CORPORATION</company>
+			<company>NCR CORPORATION</company>
+			<company>MILLENNIUM CHEMICALS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="78348">
+			<firstName>JERAMIE</firstName>
+			<lastName>LEE</lastName>
+		</manager>
+		<location>
+			<city>KENTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>CITIZENS COMMUNICATIONS CO</company>
+			<company>TENNECO AUTOMOTIVE INC</company>
+			<company>BANK OF AMERICA CORPORATION</company>
+			<company>FIRSTENERGY CORP</company>
+			<company>LANDAMERICA FINANCIAL GROUP INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="84982">
+			<firstName>CORRIE</firstName>
+			<lastName>ANDERSON</lastName>
+		</manager>
+		<location>
+			<city>WOODBURY</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>HEALTHSOUTH CORP</company>
+			<company>ANALOG DEVICES</company>
+			<company>PHILLIPS PETROLEUM CO</company>
+			<company>NEWMONT MINING CORPORATION</company>
+			<company>ADOBE SYSTEMS INCORPORATED</company>
+			<company>BEMIS COMPANY</company>
+			<company>ESTEE LAUDER COMPANIES INC</company>
+			<company>BANKNORTH GROUP</company>
+			<company>CORN PRODUCTS INTERNATIONAL INC</company>
+			<company>AIRGAS</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="24161">
+			<firstName>AILEEN</firstName>
+			<lastName>MARTINEZ</lastName>
+		</manager>
+		<location>
+			<city>GREENBRIER</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>CENEX HARVEST STATES COOPERATIVES</company>
+			<company>PHAR MOR INC</company>
+			<company>PARK PLACE ENTERTAINMENT CORP</company>
+			<company>HUMANA INC</company>
+			<company>PERINI CORP</company>
+			<company>SONOCO PRODUCTS CO</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="52917">
+			<firstName>FLOSSIE</firstName>
+			<lastName>LEWIS</lastName>
+		</manager>
+		<location>
+			<city>FRANKLIN</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>PPG INDUSTRIES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="34879">
+			<firstName>DOVIE</firstName>
+			<lastName>NICHOLSON</lastName>
+		</manager>
+		<location>
+			<city>ALGOOD</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>ARROW ELECTRONICS</company>
+			<company>PEOPLESOFT INC</company>
+			<company>APPLERA CORPORATION</company>
+			<company>PEP BOYS MANNY</company>
+			<company>MOHAWK INDUSTRIES INC</company>
+			<company>WORLD FUEL SERVICES CORPORATION</company>
+			<company>CUMMINS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="83249">
+			<firstName>CHRISTOP</firstName>
+			<lastName>GONZALEZ</lastName>
+		</manager>
+		<location>
+			<city>SEVIERVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>ELECTRONIC ARTS INC</company>
+			<company>IKON OFFICE SOLUTIONS INC</company>
+			<company>ATMOS ENERGY CORPORATION</company>
+			<company>NEW YORK TIMES COMPANY</company>
+			<company>JONES APPAREL GROUP INC</company>
+			<company>VOLT INFORMATION SCIENCES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="44042">
+			<firstName>TY</firstName>
+			<lastName>RODRIGUEZ</lastName>
+		</manager>
+		<location>
+			<city>MORRISON</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>GRANITE CONSTRUCTION INCORPORATED</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="75301">
+			<firstName>KYLA</firstName>
+			<lastName>TAYLOR</lastName>
+		</manager>
+		<location>
+			<city>TOWNSEND</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>FEDERATED DEPARTMENT STORES INC</company>
+			<company>NORTHWESTERN CORPORATION</company>
+			<company>GATEWAY INC</company>
+			<company>COMPASS BANCSHARES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="70029">
+			<firstName>FREDA</firstName>
+			<lastName>THOMAS</lastName>
+		</manager>
+		<location>
+			<city>LAFAYETTE</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>LYONDELL CHEMICAL COMPANY</company>
+			<company>TJX COMPANIES INC</company>
+			<company>SOUTHWEST AIRLINES CO</company>
+			<company>3COM CORP</company>
+			<company>FLUOR CORP</company>
+			<company>SOUTHTRUST CORP</company>
+			<company>THE ALLSTATE CORPORATION</company>
+			<company>HERCULES INC</company>
+			<company>BURLINGTON NORTHERN SANTA FE CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="15873">
+			<firstName>EVETTE</firstName>
+			<lastName>MILLER</lastName>
+		</manager>
+		<location>
+			<city>DRESDEN</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>AUDIOVOX CORPORATION</company>
+			<company>MBNA CORPORATION</company>
+			<company>MARATHON OIL CORPORATION</company>
+			<company>NORDSTROM INC</company>
+			<company>MELLON FINANCIAL CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="49856">
+			<firstName>AIDAN</firstName>
+			<lastName>SMITH</lastName>
+		</manager>
+		<location>
+			<city>DECATUR</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>CONAGRA FOODS INC</company>
+			<company>YELLOW CORPORATION</company>
+			<company>OFFICEMAX INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="74686">
+			<firstName>ALDA</firstName>
+			<lastName>BROWN</lastName>
+		</manager>
+		<location>
+			<city>MUNFORD</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>CONCORD EFS INC</company>
+			<company>AMC ENTERTAINMENT INC</company>
+			<company>PEROT SYSTEMS CORP</company>
+			<company>PRIMEDIA INC</company>
+			<company>EOG RESOURCES</company>
+			<company>KROGER CO</company>
+			<company>DOLLAR GENERAL CORPORATION</company>
+			<company>HUNTINGTON BANCSHARES INC</company>
+			<company>SOVEREIGN BANCORP INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="96803">
+			<firstName>SIM</firstName>
+			<lastName>LIN</lastName>
+		</manager>
+		<location>
+			<city>CLEVELAND</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>WR BERKLEY CORPORATION</company>
+			<company>FERRO CORP</company>
+			<company>FURNITURE BRANDS INTERNATIONAL INC</company>
+			<company>ANTHEM</company>
+			<company>LONGS DRUG STORES CORPORATION</company>
+			<company>CONTINENTAL AIRLINES INC</company>
+			<company>PNM RESOURCES INC</company>
+			<company>GENTEK INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="66348">
+			<firstName>WILFRID</firstName>
+			<lastName>DAVIS</lastName>
+		</manager>
+		<location>
+			<city>ONEIDA</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>UNITED STATIONERS INC</company>
+			<company>ROCKWELL COLLINS INC</company>
+			<company>UST INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="68901">
+			<firstName>HALIE</firstName>
+			<lastName>JACKSON</lastName>
+		</manager>
+		<location>
+			<city>PIKEVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>EASTMAN CHEMICAL COMPANY</company>
+			<company>DIMON INCORPORATED</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="97637">
+			<firstName>JOSHUA</firstName>
+			<lastName>JONES</lastName>
+		</manager>
+		<location>
+			<city>SOMERVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>UNUMPROVIDENT CORPORATION</company>
+			<company>KIMBALL INTERNATIONAL INC</company>
+			<company>AMGEN INC</company>
+			<company>VARCO INTERNATIONAL INC</company>
+			<company>SBC COMMUNICATIONS INC</company>
+			<company>APARTMENT INVESTMENT AND MANAGEMENT COMPANY</company>
+			<company>ASTORIA FINANCIAL CORPORATION</company>
+			<company>WEYERHAUSER COMPANY</company>
+			<company>BEVERLY ENTERPRISES</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="34051">
+			<firstName>DEANGELO</firstName>
+			<lastName>WHITE</lastName>
+		</manager>
+		<location>
+			<city>SPRINGFIELD</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>MEADWESTVACO CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="43642">
+			<firstName>MARCELINO</firstName>
+			<lastName>PEREZ</lastName>
+		</manager>
+		<location>
+			<city>CORNERSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>AVON PRODUCTS</company>
+			<company>ELI LILLY AND COMPANY</company>
+			<company>PUGET ENERGY INC</company>
+			<company>KELLWOOD COMPANY</company>
+			<company>DELTA AIR LINES INC</company>
+			<company>LOEWS CORPORATION</company>
+			<company>CHAMPION ENTERPRISES INC</company>
+			<company>LIMITED INC</company>
+			<company>FIRST NATIONAL OF NEBRASKA INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="20946">
+			<firstName>WILLOW</firstName>
+			<lastName>MOORE</lastName>
+		</manager>
+		<location>
+			<city>MADISONVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>FORD MOTOR CO</company>
+			<company>ROADWAYCORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="81507">
+			<firstName>RUDOLF</firstName>
+			<lastName>ROBINSON</lastName>
+		</manager>
+		<location>
+			<city>PURYEAR</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>FIDELITY NATIONAL FINANCIAL INC</company>
+			<company>HEALTH MANAGEMENT ASSOCIATES INC</company>
+			<company>MANPOWER INC</company>
+			<company>VERITAS SOFTWARE CORPORATION</company>
+			<company>MEDTRONIC INC</company>
+			<company>PLAINS ALL AMERICAN PIPELINE LP</company>
+			<company>STAFF LEASING INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="15463">
+			<firstName>JAYNE</firstName>
+			<lastName>HERNANDEZ</lastName>
+		</manager>
+		<location>
+			<city>SLAYDEN</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>HCA INC</company>
+			<company>NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION</company>
+			<company>STANCORP FINANCIAL GROUP INC</company>
+			<company>TECH DATA CORPORATION</company>
+			<company>ALCOA INC</company>
+			<company>CONSECO INC</company>
+			<company>ST JUDE MEDICAL INC</company>
+			<company>HOVNANIAN ENTERPRISES INC</company>
+			<company>ATMEL CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="99393">
+			<firstName>BUFFY</firstName>
+			<lastName>GARCIA</lastName>
+		</manager>
+		<location>
+			<city>COOKEVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>BELLSOUTH CORPORATION</company>
+			<company>ARMSTRONG HOLDINGS</company>
+			<company>VECTREN CORPORATION</company>
+			<company>ADC TELECOMMUNICATIONS</company>
+			<company>SILICON GRAPHICS INC</company>
+			<company>COX COMMUNICATIONS INC</company>
+			<company>SPORTS AUTHORITY INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="94216">
+			<firstName>CHELSI</firstName>
+			<lastName>BARNICLE</lastName>
+		</manager>
+		<location>
+			<city>GAINESBORO</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>PSS WORLD MEDICAL INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="51368">
+			<firstName>ARIANNA</firstName>
+			<lastName>MARTIN</lastName>
+		</manager>
+		<location>
+			<city>ALAMO</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>COSTCO WHOLESALE CORP</company>
+			<company>THE BEAR STEARNS COMPANIES INC</company>
+			<company>BMC SOFTWARE</company>
+			<company>QUEST DIAGNOSTICS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="31649">
+			<firstName>PILAR</firstName>
+			<lastName>WILSON</lastName>
+		</manager>
+		<location>
+			<city>WHITEVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>UNITED RENTALS INC</company>
+			<company>ROBERT HALF INTERNATIONAL INC</company>
+			<company>OLIN CORP</company>
+			<company>CAREMARK RX INC</company>
+			<company>WACHOVIA CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="83490">
+			<firstName>DONNY</firstName>
+			<lastName>MACHUCA</lastName>
+		</manager>
+		<location>
+			<city>STANTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>WALTER INDUSTRIES INC</company>
+			<company>FAIRCHILD SEMICONDUCTOR INTERNATIONAL INC</company>
+			<company>WESTERN DIGITAL INC</company>
+			<company>HERMAN MILLER INC</company>
+			<company>REEBOK INTERNATIONAL LTD</company>
+			<company>DI GIORGIO CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="53679">
+			<firstName>EMIL</firstName>
+			<lastName>LOPEZ</lastName>
+		</manager>
+		<location>
+			<city>HARRIMAN</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>KEYSPAN CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="49828">
+			<firstName>CHANA</firstName>
+			<lastName>WALKER</lastName>
+		</manager>
+		<location>
+			<city>VIOLA</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>SARA LEE CORP</company>
+			<company>AFFILIATED COMPUTER SERVICES</company>
+			<company>VF CORPORATION</company>
+			<company>RJ REYNOLDS TOBACCO COMPANY</company>
+			<company>CYTEC INDUSTRIES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="25826">
+			<firstName>BULAH</firstName>
+			<lastName>THOMPSON</lastName>
+		</manager>
+		<location>
+			<city>LIVINGSTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>JB HUNT TRANSPORT SERVICES INC</company>
+			<company>GUIDANT CORPORATION</company>
+			<company>WYETH</company>
+			<company>WILLIAMS SONOMA INC</company>
+			<company>TEXAS INDUSTRIES INC</company>
+			<company>IDT CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="96926">
+			<firstName>NAT</firstName>
+			<lastName>JOHNSON</lastName>
+		</manager>
+		<location>
+			<city>NIOTA</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>RGS ENERGY GROUP INC</company>
+			<company>HARRIS CORP</company>
+			<company>NASH FINCH COMPANY</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="86660">
+			<firstName>STACIA</firstName>
+			<lastName>HARRIS</lastName>
+		</manager>
+		<location>
+			<city>TOONE</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>PHELPS DODGE CORP</company>
+			<company>TOLL BROTHERS INC</company>
+			<company>HON INDUSTRIES INC</company>
+			<company>RELIANT ENERGY INC</company>
+			<company>UNIFIED WESTERN GROCERS INC</company>
+			<company>ECOLAB INC</company>
+			<company>HERSHEY FOODS CORP</company>
+			<company>PENTAIR INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="61489">
+			<firstName>EDNA</firstName>
+			<lastName>CLARK</lastName>
+		</manager>
+		<location>
+			<city>CAMDEN</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>VULCAN MATERIALS COMPANY</company>
+			<company>BEST BUY CO</company>
+			<company>LENNOX INTERNATIONAL INC</company>
+			<company>SYNOVUS FINANCIAL CORP</company>
+			<company>HARMAN INTERNATIONAL INDUSTRIES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="38308">
+			<firstName>LORRAINE</firstName>
+			<lastName>WILLIAMS</lastName>
+		</manager>
+		<location>
+			<city>LEBANON</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>BURLINGTON INDUSTRIES</company>
+			<company>WERNER ENTERPRISES INC</company>
+			<company>BORDERS GROUP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="48436">
+			<firstName>ROSANNA</firstName>
+			<lastName>LEE</lastName>
+		</manager>
+		<location>
+			<city>BRADFORD</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>TEXTRON INC</company>
+			<company>ABBOTT LABORATORIES</company>
+			<company>SUN HEALTHCARE GROUP INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="38470">
+			<firstName>CLEMENS</firstName>
+			<lastName>ANDERSON</lastName>
+		</manager>
+		<location>
+			<city>DYER</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>PPL CORP</company>
+			<company>SHOPKO STORES INC</company>
+			<company>ALLMERICA FINANCIAL CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="20116">
+			<firstName>HANNAH</firstName>
+			<lastName>MARTINEZ</lastName>
+		</manager>
+		<location>
+			<city>HELENWOOD</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>AUTOZONE</company>
+			<company>RUDDICK CORP</company>
+			<company>XILINX INC</company>
+			<company>FIRST TENNESSEE NATIONAL CORP</company>
+			<company>HORMEL FOODS CORP</company>
+			<company>PANTRY INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="88712">
+			<firstName>CARLI</firstName>
+			<lastName>LEWIS</lastName>
+		</manager>
+		<location>
+			<city>MILAN</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>WINN DIXIE STORES INC</company>
+			<company>TXU CORP</company>
+			<company>EQUIFAX INC</company>
+			<company>DARDEN RESTAURANTS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="21077">
+			<firstName>VALORIE</firstName>
+			<lastName>NICHOLSON</lastName>
+		</manager>
+		<location>
+			<city>BAILEYTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>CATERPILLAR INC</company>
+			<company>SPARTAN STORES INC</company>
+			<company>CHARTER ONE FINANCIAL INC</company>
+			<company>CABLEVISION SYSTEMS CORP</company>
+			<company>AQUILA</company>
+			<company>CONSTELLATION EMERGY GROUP INC</company>
+			<company>CMS ENERGY CORP</company>
+			<company>WALGREEN CO</company>
+			<company>BENCHMARK ELECTRONICS</company>
+			<company>BRIGHTPOINT</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="91108">
+			<firstName>STEFAN</firstName>
+			<lastName>GONZALEZ</lastName>
+		</manager>
+		<location>
+			<city>OAKDALE</city>
+			<state>TN</state>
+		</location>
+		<companies count="5">
+			<company>SABRE HOLDINGS CORP</company>
+			<company>DANAHER CORPORATION</company>
+			<company>HOUSEHOLD INTERNATIONAL CORP</company>
+			<company>DOLE FOOD COMPANY</company>
+			<company>BANK ONE CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="41440">
+			<firstName>CHRISTEN</firstName>
+			<lastName>RODRIGUEZ</lastName>
+		</manager>
+		<location>
+			<city>TREZEVANT</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>CH2M HILL COS LTD</company>
+			<company>DURA AUTOMOTIVE SYSTEMS INC</company>
+			<company>CHUBB CORP</company>
+			<company>TYSON FOODS INC</company>
+			<company>XCEL ENERGY INC</company>
+			<company>LABORATORY CORPORATION OF AMERICA HOLDINGS</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="77403">
+			<firstName>RUBIE</firstName>
+			<lastName>TAYLOR</lastName>
+		</manager>
+		<location>
+			<city>BAXTER</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>LENNAR CORPORATION</company>
+			<company>RYERSON TULL INC</company>
+			<company>WILLAMETTE INDUSTRIES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="62691">
+			<firstName>CHANCE</firstName>
+			<lastName>THOMAS</lastName>
+		</manager>
+		<location>
+			<city>COLLIERVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>COMMERCIAL METALS CO</company>
+			<company>FLOWERS FOODS INC</company>
+			<company>CISCO SYSTEMS INC</company>
+			<company>WM WRIGLEY JR COMPANY</company>
+			<company>SLM CORPORATION</company>
+			<company>JOHN HANCOCK FINANCIAL SERVICES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="37700">
+			<firstName>IVA</firstName>
+			<lastName>MILLER</lastName>
+		</manager>
+		<location>
+			<city>RIDGESIDE</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>PAYLESS SHOESOURCE INC</company>
+			<company>MAXXAM INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="97562">
+			<firstName>DAMIEN</firstName>
+			<lastName>SMITH</lastName>
+		</manager>
+		<location>
+			<city>COLUMBIA</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>MOTOROLA INC</company>
+			<company>NUCOR CORP</company>
+			<company>NORFOLK SOUTHERN CORPORATION</company>
+			<company>AMERICAN STANDARD COMPANIES INC</company>
+			<company>SCIENCE APPLICATIONS INTL INC</company>
+			<company>AFLAC INCORPORATED</company>
+			<company>ILLINOIS TOOL WORKS INC</company>
+			<company>QUESTAR CORP</company>
+			<company>COOPER CAMERON CORP</company>
+			<company>PETCO ANIMAL SUPPLIES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="30228">
+			<firstName>LANDON</firstName>
+			<lastName>BROWN</lastName>
+		</manager>
+		<location>
+			<city>MEDINA</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>CSK AUTO CORP</company>
+			<company>QWEST COMMUNICATIONS INTL INC</company>
+			<company>BROADWING</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="56165">
+			<firstName>TRINIDAD</firstName>
+			<lastName>LIN</lastName>
+		</manager>
+		<location>
+			<city>ATOKA</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>CENDANT CORP</company>
+			<company>WORLDCOM INC</company>
+			<company>NATIONAL OILWELL INC</company>
+			<company>WALLACE COMPUTER SERVICES INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="28505">
+			<firstName>ANTONIETTA</firstName>
+			<lastName>DAVIS</lastName>
+		</manager>
+		<location>
+			<city>SMITHVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="2">
+			<company>APACHE CORPORATION</company>
+			<company>CALPINE CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="66634">
+			<firstName>FRED</firstName>
+			<lastName>JACKSON</lastName>
+		</manager>
+		<location>
+			<city>ARDMORE</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>VIASYSTEMS GROUP INC</company>
+			<company>CORNING INC</company>
+			<company>ANNTAYLOR INC</company>
+			<company>AUTOLIV</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="69698">
+			<firstName>GARNET</firstName>
+			<lastName>JONES</lastName>
+		</manager>
+		<location>
+			<city>MILLINGTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>INTERNATIONAL BUSINESS MACHINES CORP</company>
+			<company>COMPUWARE CORP</company>
+			<company>MDC HOLDINGS INC</company>
+			<company>AGWAY INC</company>
+			<company>HASBRO INC</company>
+			<company>GREY GLOBAL GROUP INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="75738">
+			<firstName>TIM</firstName>
+			<lastName>WHITE</lastName>
+		</manager>
+		<location>
+			<city>LEXINGTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>STILWELL FINANCIAL INC</company>
+			<company>INGRAM MICRO INC</company>
+			<company>ABM INDUSTRIES INCORPORATED</company>
+			<company>C H ROBINSON WORLDWIDE INC</company>
+			<company>MERCURY GENERAL CORPORATION</company>
+			<company>EXELON CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="42706">
+			<firstName>JAZLYN</firstName>
+			<lastName>PEREZ</lastName>
+		</manager>
+		<location>
+			<city>FRIENDSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>HOLLYWOOD ENTERTAINMENT CORP</company>
+			<company>ADOLPH COORS COMPANY</company>
+			<company>PENN TRAFFIC CO</company>
+			<company>MASTEC INC</company>
+			<company>NATIONAL CITY CORP</company>
+			<company>PACIFICARE HEALTH SYSTEMS INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="26540">
+			<firstName>NAOMI</firstName>
+			<lastName>MOORE</lastName>
+		</manager>
+		<location>
+			<city>LAWRENCEBURG</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>VALERO ENERGY CORPORATION</company>
+			<company>MASSEY ENERGY COMPANY</company>
+			<company>FEDERAL EXPRESS CORP</company>
+			<company>FIRST AMERICAN FINANCIAL CORP</company>
+			<company>DEL MONTE FOODS CO</company>
+			<company>UNIVERSAL CORPORATION</company>
+			<company>POLARIS INDUSTRIES INC</company>
+			<company>INTERNATIONAL PAPER CO</company>
+			<company>US AIRWAYS GROUP INC</company>
+			<company>DAVITA INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="51268">
+			<firstName>OSWALD</firstName>
+			<lastName>ROBINSON</lastName>
+		</manager>
+		<location>
+			<city>NEWBERN</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>CLEAR CHANNEL COMMUNICATIONS INC</company>
+			<company>AGILENT TECHNOLOGIES</company>
+			<company>WAKENHUT CORPORATION</company>
+			<company>JC PENNY CO</company>
+			<company>INSIGHT ENTERPRISES INC</company>
+			<company>FARMLAND INDUSTRIES INC</company>
+			<company>LOCKHEED MARTIN CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="15840">
+			<firstName>MORTIMER</firstName>
+			<lastName>HERNANDEZ</lastName>
+		</manager>
+		<location>
+			<city>ATHENS</city>
+			<state>TN</state>
+		</location>
+		<companies count="1">
+			<company>CNF INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="22340">
+			<firstName>ALISSA</firstName>
+			<lastName>GARCIA</lastName>
+		</manager>
+		<location>
+			<city>BROWNSVILLE</city>
+			<state>TN</state>
+		</location>
+		<companies count="6">
+			<company>CIENA CORP</company>
+			<company>XEROX CORP</company>
+			<company>CELLSTAR CORP</company>
+			<company>OLD REPUBLIC INTERNATIONAL CORP</company>
+			<company>CONSTELLATION BRANDS INC</company>
+			<company>ON SEMICONDUCTOR CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="75651">
+			<firstName>CAMDEN</firstName>
+			<lastName>BARNICLE</lastName>
+		</manager>
+		<location>
+			<city>SPARTA</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>ALLETE</company>
+			<company>ALLIED WASTE INDUSTRIES</company>
+			<company>CONVERGYS CORP</company>
+			<company>AVAYA INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="73898">
+			<firstName>TITUS</firstName>
+			<lastName>MARTIN</lastName>
+		</manager>
+		<location>
+			<city>SELMER</city>
+			<state>TN</state>
+		</location>
+		<companies count="9">
+			<company>NIKE INC</company>
+			<company>WEIS MARKETS INC</company>
+			<company>SYSCO CORP</company>
+			<company>IMPERIAL SUGAR COMPANY</company>
+			<company>WGL HOLDINGS INC</company>
+			<company>SERVICE CORP INTERNATIONAL</company>
+			<company>GOLDEN STATE BANCORP INC</company>
+			<company>EW SCRIPPS COMPANY</company>
+			<company>CONSOLIDATED FREIGHTWAYS CORP</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="15956">
+			<firstName>EZEKIEL</firstName>
+			<lastName>WILSON</lastName>
+		</manager>
+		<location>
+			<city>BARTLETT</city>
+			<state>TN</state>
+		</location>
+		<companies count="10">
+			<company>AMERICAN EXPRESS COMPANY</company>
+			<company>AIRBORNE</company>
+			<company>COMPUTER ASSOCIATES INTERNATIONAL INC</company>
+			<company>ARKANSAS BEST CORPORATION</company>
+			<company>TELEFLEX INCORPORATED</company>
+			<company>PROVIDIAN FINANCIAL CORP</company>
+			<company>CSX CORP</company>
+			<company>PALL CORP</company>
+			<company>OHIO CASUALTY CORP</company>
+			<company>COMERICA INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="25750">
+			<firstName>ARELY</firstName>
+			<lastName>MACHUCA</lastName>
+		</manager>
+		<location>
+			<city>WHITWELL</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>REPUBLIC SERVICES INC</company>
+			<company>BUDGET GROUP</company>
+			<company>MGM MIRAGE</company>
+			<company>DELPHI CORP</company>
+			<company>TRAVELCENTERS OF AMERICA INC</company>
+			<company>UNISYS CORPORATION</company>
+			<company>NORTHROP GRUMMAN CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="39751">
+			<firstName>RANDELL</firstName>
+			<lastName>LOPEZ</lastName>
+		</manager>
+		<location>
+			<city>COVINGTON</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>NISOURCE INC</company>
+			<company>HONEYWELL INTERNATIONAL INC</company>
+			<company>ORACLE CORP</company>
+			<company>GATX CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="78124">
+			<firstName>ERWIN</firstName>
+			<lastName>WALKER</lastName>
+		</manager>
+		<location>
+			<city>GERMANTOWN</city>
+			<state>TN</state>
+		</location>
+		<companies count="7">
+			<company>PAYCHEX INC</company>
+			<company>NABORS INDUSTRIES INC</company>
+			<company>NATIONAL FUEL GAS COMPANY</company>
+			<company>ANIXTER INTERNATIONAL INC</company>
+			<company>FISHER SCIENTIFIC INTERNATIONAL INC</company>
+			<company>MGIC INVESTMENT CORPORATION</company>
+			<company>HARTFORD FINANCIAL SERVICES GROUP INC</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="31152">
+			<firstName>PEDRO</firstName>
+			<lastName>THOMPSON</lastName>
+		</manager>
+		<location>
+			<city>PORTLAND</city>
+			<state>TN</state>
+		</location>
+		<companies count="8">
+			<company>WASHINGTON POST CO</company>
+			<company>XO COMMUNICATIONS INC</company>
+			<company>DIEBOLD INCORPORATED</company>
+			<company>DPL INC</company>
+			<company>STEWART INFORMATION SERVICES CORP</company>
+			<company>HOST MARRIOTT CORP</company>
+			<company>GREAT LAKES CHEMICAL CORPORATION</company>
+			<company>CINCINNATI FINANCIAL CORP</company>
+		</companies>
+	</account>
+</accounts>

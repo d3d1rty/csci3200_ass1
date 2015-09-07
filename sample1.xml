@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Processed by Richard Davis’s converter -->
+<accounts>
+	<account>
+		<manager employeeId="19936">
+			<firstName>KOLTON</firstName>
+			<lastName>WALKER</lastName>
+		</manager>
+		<location>
+			<city>PORTLAND</city>
+			<state>TN</state>
+		</location>
+		<companies count="4">
+			<company>HARMAN INTERNATIONAL INDUSTRIES INC</company>
+			<company>LUCENT TECHNOLOGIES INC</company>
+			<company>COMPUTER SCIENCES CORP</company>
+			<company>ECHOSTAR COMMUNICATIONS CORPORATION</company>
+		</companies>
+	</account>
+	<account>
+		<manager employeeId="79122">
+			<firstName>MARISSA</firstName>
+			<lastName>THOMPSON</lastName>
+		</manager>
+		<location>
+			<city>KINGSPORT</city>
+			<state>TN</state>
+		</location>
+		<companies count="3">
+			<company>QUINTILES TRANSNATIONAL</company>
+			<company>BANTA CORPORATION</company>
+			<company>SEMPRA ENERGY</company>
+		</companies>
+	</account>
+</accounts>
