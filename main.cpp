@@ -10,7 +10,6 @@ This program converts a legacy text file to an XML document
 #include <fstream>
 #include <iostream>
 #include <string>
-#include <cstdlib>  // included for exit codes
 
 // stack overflow has convinced me "using namespace std;" is a bad idea
 using std::cout;
@@ -49,7 +48,7 @@ struct Accounts {
 
 // prototypes for the functions
 void userInput(std::string &, std::string &);
-void fileRead(std::string, Accounts &, int &);
+bool fileRead(std::string, Accounts &, int &);
 void fileWrite(std::string, Accounts, int);
 
 // where the magic happens
@@ -57,6 +56,7 @@ int main() {
     std::string ifile_name, ofile_name;
     Accounts m_accounts;
     int num_accounts;
+    bool wasRead;
 
     cout << "TXT-to-XML Converter\n";
     cout << "Author: Richard Davis\n";
@@ -64,9 +64,11 @@ int main() {
 
     userInput(ifile_name, ofile_name);
 
-    fileRead(ifile_name, m_accounts, num_accounts);
+    wasRead = fileRead(ifile_name, m_accounts, num_accounts);
 
-    fileWrite(ofile_name, m_accounts, num_accounts);
+    if (wasRead) {
+        fileWrite(ofile_name, m_accounts, num_accounts);
+    } 
 
     return 0;
 }
@@ -86,7 +88,7 @@ void userInput(std::string &in, std::string &out) {
 }
 
 // opens input file, reads and stores values in nested structs, and then closes file
-void fileRead(std::string name, Accounts &l_accounts, int &num_accounts) {
+bool fileRead(std::string name, Accounts &l_accounts, int &num_accounts) {
     std::ifstream file;
     int i = 0;
     std::string temp = " ";
@@ -95,7 +97,7 @@ void fileRead(std::string name, Accounts &l_accounts, int &num_accounts) {
     if (!file) {
         cout << "Unable to open the input file!\n";
         cout << "Check if the file exists and that you have read permissions.\n";
-        exit(1);  // needed cstdlib for this
+        return false;
     } else {
         cout << "Opening file for reading...\n";
         while (!file.eof()) {
@@ -125,6 +127,7 @@ void fileRead(std::string name, Accounts &l_accounts, int &num_accounts) {
     }
     file.close();
     cout << "The input file has been successfully parsed.\n\n";
+    return true;
 }
 
 // opens/creates output file, uses for loops to traverse structs as it writes xml to file, and then closes file
@@ -134,7 +137,6 @@ void fileWrite(std::string name, Accounts l_accounts, int num_accounts) {
     if (!file) {
         cout << "Unable to open the output file!\n";
         cout << "Ensure you have write permissions in your working directory.\n";
-        exit(1);  // needed cstdlib to do this
     } else {
         cout << "Opening file for writing...\n";
         file << "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
@@ -158,7 +160,7 @@ void fileWrite(std::string name, Accounts l_accounts, int num_accounts) {
             file << "\t</account>\n";
         }
         file << "</accounts>";
+        file.close();
+        cout << "The input file has been converted to an XML document.\n";
     }
-    file.close();
-    cout << "The input file has been converted to an XML document.\n";
 }
